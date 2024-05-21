@@ -1,0 +1,4 @@
+/home/silkfinik/VS Code/cpp/SStudData/build/CMakeFiles/SStudData.dir
+/home/silkfinik/VS Code/cpp/SStudData/build/CMakeFiles/StartMonitor.dir
+/home/silkfinik/VS Code/cpp/SStudData/build/CMakeFiles/edit_cache.dir
+/home/silkfinik/VS Code/cpp/SStudData/build/CMakeFiles/rebuild_cache.dir

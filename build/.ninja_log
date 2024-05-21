@@ -1,0 +1,38 @@
+# ninja log v5
+1	162	0	CMakeFiles/StartMonitor	dc243b52df81a9b5
+1	162	0	/home/silkfinik/VS Code/cpp/SStudData/build/CMakeFiles/StartMonitor	dc243b52df81a9b5
+1	593	1716322750751658047	CMakeFiles/SStudData.dir/main.cpp.o	ddac443d2e677a98
+802	938	1716322751099662082	SStudData	efaa13131c9d22ec
+1	802	1716322750959660459	CMakeFiles/SStudData.dir/src/SStudData.cpp.o	ddde25dee076a9a3
+2	212	0	CMakeFiles/StartMonitor	dc243b52df81a9b5
+2	212	0	/home/silkfinik/VS Code/cpp/SStudData/build/CMakeFiles/StartMonitor	dc243b52df81a9b5
+1	836	1716323390355085722	CMakeFiles/SStudData.dir/src/SStudData.cpp.o	ddde25dee076a9a3
+1	194	0	CMakeFiles/StartMonitor	dc243b52df81a9b5
+1	194	0	/home/silkfinik/VS Code/cpp/SStudData/build/CMakeFiles/StartMonitor	dc243b52df81a9b5
+1	573	1716323434543599148	CMakeFiles/SStudData.dir/main.cpp.o	ddac443d2e677a98
+1	746	1716323434711601100	CMakeFiles/SStudData.dir/src/SStudData.cpp.o	ddde25dee076a9a3
+746	859	1716323434827602448	SStudData	efaa13131c9d22ec
+1	168	0	CMakeFiles/StartMonitor	dc243b52df81a9b5
+1	168	0	/home/silkfinik/VS Code/cpp/SStudData/build/CMakeFiles/StartMonitor	dc243b52df81a9b5
+4	274	0	CMakeFiles/StartMonitor	dc243b52df81a9b5
+4	274	0	/home/silkfinik/VS Code/cpp/SStudData/build/CMakeFiles/StartMonitor	dc243b52df81a9b5
+1	614	1716323717354885133	CMakeFiles/SStudData.dir/main.cpp.o	ddac443d2e677a98
+3	879	1716323717614888154	CMakeFiles/SStudData.dir/src/SStudData.cpp.o	ddde25dee076a9a3
+879	1021	1716323717762889874	SStudData	efaa13131c9d22ec
+1	188	0	CMakeFiles/StartMonitor	dc243b52df81a9b5
+1	188	0	/home/silkfinik/VS Code/cpp/SStudData/build/CMakeFiles/StartMonitor	dc243b52df81a9b5
+1	640	1716324001942191936	CMakeFiles/SStudData.dir/main.cpp.o	ddac443d2e677a98
+2	193	0	CMakeFiles/StartMonitor	dc243b52df81a9b5
+2	193	0	/home/silkfinik/VS Code/cpp/SStudData/build/CMakeFiles/StartMonitor	dc243b52df81a9b5
+1	606	1716324107107414250	CMakeFiles/SStudData.dir/main.cpp.o	ddac443d2e677a98
+2	892	1716324107391417551	CMakeFiles/SStudData.dir/src/SStudData.cpp.o	ddde25dee076a9a3
+892	1027	1716324107527419132	SStudData	efaa13131c9d22ec
+1	148	0	CMakeFiles/StartMonitor	dc243b52df81a9b5
+1	148	0	/home/silkfinik/VS Code/cpp/SStudData/build/CMakeFiles/StartMonitor	dc243b52df81a9b5
+2	201	0	CMakeFiles/StartMonitor	dc243b52df81a9b5
+2	201	0	/home/silkfinik/VS Code/cpp/SStudData/build/CMakeFiles/StartMonitor	dc243b52df81a9b5
+2	603	1716324500371985086	CMakeFiles/SStudData.dir/main.cpp.o	ddac443d2e677a98
+2	926	1716324500691988806	CMakeFiles/SStudData.dir/src/SStudData.cpp.o	ddde25dee076a9a3
+926	1057	1716324500827990386	SStudData	efaa13131c9d22ec
+1	160	0	CMakeFiles/StartMonitor	dc243b52df81a9b5
+1	160	0	/home/silkfinik/VS Code/cpp/SStudData/build/CMakeFiles/StartMonitor	dc243b52df81a9b5

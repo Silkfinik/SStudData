@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/silkfinik/VS Code/cpp/SStudData/build",
+  "command": "/usr/bin/clang++-18 -I\"/home/silkfinik/VS Code/cpp/SStudData/include\" -g -std=gnu++17 -o CMakeFiles/SStudData.dir/main.cpp.o -c \"/home/silkfinik/VS Code/cpp/SStudData/main.cpp\"",
+  "file": "/home/silkfinik/VS Code/cpp/SStudData/main.cpp"
+},
+{
+  "directory": "/home/silkfinik/VS Code/cpp/SStudData/build",
+  "command": "/usr/bin/clang++-18 -I\"/home/silkfinik/VS Code/cpp/SStudData/include\" -g -std=gnu++17 -o CMakeFiles/SStudData.dir/src/SStudData.cpp.o -c \"/home/silkfinik/VS Code/cpp/SStudData/src/SStudData.cpp\"",
+  "file": "/home/silkfinik/VS Code/cpp/SStudData/src/SStudData.cpp"
+}
+]

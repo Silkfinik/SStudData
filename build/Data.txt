@@ -1,0 +1,7 @@
+Ivanov;12345;Math-5,Physics-4,Chemistry-3
+Petrov;12346;Math-4,Physics-5,History-3
+Sidorov;12347;Math-5,Physics-4,Biology-5
+Ivanov;12348;Math-4,Physics-3,Computer Science-5
+Kuznetsov;12349;Math-5,Physics-4,Geography-3
+Petrov;12350;Math-3,Physics-5,English-4
+Ivanov;12351;Math-4,Physics-5,Literature-3
